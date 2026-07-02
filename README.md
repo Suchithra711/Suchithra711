@@ -1,3 +1,4 @@
-## Hi there 👋
+## apnacollege-demo
 This is my first Git Repository.
-Author-rani
+<br>
+Author-Rani
